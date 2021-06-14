@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
-
-@DabanSadiq
-learn-co-curriculum
-/
-fewpjs_destructuring_assignment
-25
-0571
-Code
-Issues
-Pull requests
-3
-Actions
-Projects
-Wiki
-Security
-Insights
-fewpjs_destructuring_assignment/index.js /
-@lizbur10
-lizbur10 Update solution code
-Latest commit cee45f8 on 23 Feb
- History
- 3 contributors
-@cjbrock@sgharms@lizbur10
-56 lines (43 sloc)  1.99 KB
 
 const farmAnimals = 'cow horse sheep pig chicken';
 
