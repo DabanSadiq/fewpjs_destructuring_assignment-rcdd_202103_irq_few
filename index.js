@@ -5,8 +5,8 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@DabanSadiq 
+
+@DabanSadiq
 learn-co-curriculum
 /
 fewpjs_destructuring_assignment
@@ -29,7 +29,7 @@ Latest commit cee45f8 on 23 Feb
  3 contributors
 @cjbrock@sgharms@lizbur10
 56 lines (43 sloc)  1.99 KB
-  
+
 const farmAnimals = 'cow horse sheep pig chicken';
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
@@ -76,7 +76,7 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors;
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 const [r, o, y, g, b, , v] = colors;
 
-// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
+// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
 const [, , , , , indg] = colors;
 // Objects
 
